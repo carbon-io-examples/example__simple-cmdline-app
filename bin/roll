@@ -1,0 +1,9 @@
+#!/usr/bin/env node
+
+var carbon = require('carbon-io')
+var o      = carbon.atom.o(module).main    // Note the .main here since this is the main application
+
+o({_type: '../lib/RollDice'})
+
+
+ 
