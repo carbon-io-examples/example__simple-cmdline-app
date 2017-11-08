@@ -8,7 +8,7 @@
     "url" : "https://github.com/carbon-io/example__simple-cmdline-app"
   },
   "dependencies": {
-    "carbon-io" : "> 0.1.0"
+    "carbon-io": "0.7.x"
   },
   "preferGlobal": false
 }
